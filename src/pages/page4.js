@@ -8,9 +8,9 @@ function Page_4 ()  {
         <div style={{height:'543px', display:'flex',flexDirection:'row'}}>
             <div style={{}}>
                 <img src='https://octanet.in/storage/2023/04/cropped-cropped-sdrf-300x134.png' alt='img logo' />
-                <div style={{width:'50%'}}>
+                <div style={{width:'50%',marginLeft:'10%'}}>
                     <h1>OPPORUNITIES</h1>
-                    <ul>
+                    <ul style={{margin:'10%'}}>
                         <p>•THIS INTERNSHIP IS FOR LEARNING AND
                         GROWTH</p>
                         <p> •INTERNSHIP WILL HELP YOU TO IMPROVE
